@@ -1,0 +1,30 @@
+** Projet expenseApp **
+
+Créer une application mobile, avec React native, permettant de gérer ses (petites) dépenses quotidiennes.
+
+Propriétés d'une dépense:
+- date
+- montant
+- lieu
+- categorie
+- photo de la facture
+- commentaire
+
+L'application permettra
+- d'enregistrer (sur l'appareil), modifier, supprimer une dépense
+- de lister et totaliser les dépenses effectuées sur une plage chronologique donnée (semaine, mois, etc.)
+
+Nb: solutions possibles pour le stockage des données:
+- AsyncStorage: https://reactnative.dev/docs/asyncstorage.html
+- SQLite: https://docs.expo.io/versions/v38.0.0/sdk/sqlite/
+
+
+Livrables attendus pour vendredi fin de journée:
+- schéma fonctionnel de l'application
+- code source du prototype de l'application
+
+Merci de me fournir l'adresse de votre dépôt github sur teams.
+
+Bon courage !
+
+Chris
